@@ -1,5 +1,7 @@
 # MAX4LIVE_V8_V4
-A free max for live plugin that alows you to controll Edirol V4 and V8 mixers directly from Ableton Live
+A free max for live plugin that alows you to controll Edirol V4 and V8 mixers directly from Ableton Live.
+
+[DOWNLOAD THE STANDALONE VERSION](https://drive.google.com/drive/folders/1TX-tYcq1TECpKl3ca50vyXoU_WjAKnyg?usp=sharing)*
 
 If you find this usefull and would like to pay it forward you can do so [HERE](https://www.paypal.com/donate?hosted_button_id=XGRSY3M6V94R4)
 
@@ -10,3 +12,4 @@ Here is a how to video:
 
 ![ableton+v4/v8](https://github.com/cfoge/MAX4LIVE_V8_V4/blob/main/images/plugin-01%20small.jpg)
 
+*When using the stand-alone app, hit refresh, and then select your midi output. Even if it looks like your midi device has been selected when you hit refresh, you still need to click on your midi output.
