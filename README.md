@@ -1,5 +1,8 @@
 # MAX4LIVE_V8_V4
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=LSMYWSM7M7EEA)
+
 A free max for live plugin that allows you to control Edirol V4 and V8 mixers directly from Ableton Live.
+
 Automation Version:
 ![simple](https://github.com/cfoge/MAX4LIVE_V8_V4/blob/main/images/MaxSimple.JPG)
 Sequencer version:
